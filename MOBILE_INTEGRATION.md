@@ -918,8 +918,8 @@ class WebSocketManager: WebSocketDelegate {
 ## Support
 
 For issues or questions:
-- 📧 Email: your.email@example.com
-- 🐛 GitHub Issues: https://github.com/yourusername/zego-audio-video-calling/issues
+- 📧 Email: mainul12501@gmail.com
+- 🐛 GitHub Issues: https://github.com/Mainul12501/zego-audio-video-calling/issues
 
 ---
 

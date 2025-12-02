@@ -52,4 +52,4 @@ All notable changes to `zego-audio-video-calling` will be documented in this fil
 
 ---
 
-[1.0.0]: https://github.com/yourusername/zego-audio-video-calling/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Mainul12501/zego-audio-video-calling/releases/tag/v1.0.0

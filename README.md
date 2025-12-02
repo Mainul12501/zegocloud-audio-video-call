@@ -1,8 +1,8 @@
 # ZegoCloud Audio & Video Calling Package for Laravel
 
-[![Latest Version](https://img.shields.io/packagist/v/yourusername/zego-audio-video-calling.svg)](https://packagist.org/packages/yourusername/zego-audio-video-calling)
-[![Total Downloads](https://img.shields.io/packagist/dt/yourusername/zego-audio-video-calling.svg)](https://packagist.org/packages/yourusername/zego-audio-video-calling)
-[![License](https://img.shields.io/packagist/l/yourusername/zego-audio-video-calling.svg)](https://packagist.org/packages/yourusername/zego-audio-video-calling)
+[![Latest Version](https://img.shields.io/packagist/v/mainul12501/zego-audio-video-calling.svg)](https://packagist.org/packages/mainul12501/zego-audio-video-calling)
+[![Total Downloads](https://img.shields.io/packagist/dt/mainul12501/zego-audio-video-calling.svg)](https://packagist.org/packages/mainul12501/zego-audio-video-calling)
+[![License](https://img.shields.io/packagist/l/mainul12501/zego-audio-video-calling.svg)](https://packagist.org/packages/mainul12501/zego-audio-video-calling)
 
 A complete, production-ready Laravel package for implementing ZegoCloud audio and video calling with mobile app support. Just install, configure credentials, and you're ready to go!
 
@@ -48,7 +48,7 @@ A complete, production-ready Laravel package for implementing ZegoCloud audio an
 ### Step 1: Install via Composer
 
 ```bash
-composer require yourusername/zego-audio-video-calling
+composer require mainul12501/zego-audio-video-calling
 ```
 
 ### Step 2: Publish Package Assets
@@ -475,7 +475,7 @@ php artisan test --filter MobileApiTest
 php artisan backup:run
 
 # Update package
-composer update yourusername/zego-audio-video-calling
+composer update mainul12501/zego-audio-video-calling
 
 # Publish new assets
 php artisan vendor:publish --tag=zego-calling-config --force
@@ -500,11 +500,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Security
 
-If you discover any security-related issues, please email your.email@example.com instead of using the issue tracker.
+If you discover any security-related issues, please email mainul12501@gmail.com instead of using the issue tracker.
 
 ## Credits
 
-- [Your Name](https://github.com/yourusername)
+- [Mainul Hassan](https://github.com/Mainul12501)
 - [All Contributors](../../contributors)
 
 ## License
@@ -513,11 +513,11 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ## Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/zego-audio-video-calling/issues)
-- 📖 Documentation: [Full Documentation](https://github.com/yourusername/zego-audio-video-calling/wiki)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/zego-audio-video-calling/discussions)
+- 📧 Email: mainul12501@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/Mainul12501/zego-audio-video-calling/issues)
+- 📖 Documentation: [Full Documentation](https://github.com/Mainul12501/zego-audio-video-calling/wiki)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Mainul12501/zego-audio-video-calling/discussions)
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Mainul Islam](https://github.com/Mainul12501)

@@ -44,7 +44,7 @@ For those who want to get started quickly:
 
 ```bash
 # Step 1: Install package
-composer require yourusername/zego-audio-video-calling
+composer require mainul12501/zego-audio-video-calling
 
 # Step 2: Publish assets
 php artisan vendor:publish --provider="ZegoAudioVideoCalling\ZegoAudioVideoCallingServiceProvider"
@@ -68,7 +68,7 @@ php artisan migrate
 Open your terminal in your Laravel project root and run:
 
 ```bash
-composer require yourusername/zego-audio-video-calling
+composer require mainul12501/zego-audio-video-calling
 ```
 
 This will download and install the package along with its dependencies.
@@ -501,8 +501,8 @@ If you encounter issues:
 
 1. Check the [Troubleshooting section](#troubleshooting)
 2. Review the [FAQ](README.md#troubleshooting)
-3. Open an issue on [GitHub](https://github.com/yourusername/zego-audio-video-calling/issues)
-4. Email support: your.email@example.com
+3. Open an issue on [GitHub](https://github.com/Mainul12501/zego-audio-video-calling/issues)
+4. Email support: mainul12501@gmail.com
 
 ---
 
