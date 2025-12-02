@@ -1,0 +1,55 @@
+{
+    "name": "yourusername/zego-audio-video-calling",
+    "description": "A complete Laravel package for ZegoCloud audio and video calling with mobile app support",
+    "keywords": [
+        "laravel",
+        "zegocloud",
+        "video-calling",
+        "audio-calling",
+        "webrtc",
+        "real-time-communication",
+        "mobile-integration"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1|^8.2|^8.3",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/database": "^10.0|^11.0|^12.0",
+        "illuminate/contracts": "^10.0|^11.0|^12.0",
+        "illuminate/broadcasting": "^10.0|^11.0|^12.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0|^9.0",
+        "phpunit/phpunit": "^10.0|^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZegoAudioVideoCalling\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ZegoAudioVideoCalling\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ZegoAudioVideoCalling\\ZegoAudioVideoCallingServiceProvider"
+            ],
+            "aliases": {
+                "ZegoCalling": "ZegoAudioVideoCalling\\Facades\\ZegoCalling"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
